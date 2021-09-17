@@ -28,17 +28,17 @@
 
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/REVILMULTISPAMBOT/REVIL-MULTISPAM-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RevilhunterOp/REVIL-MULTISPAM-BOT)
 ------------------------------------------------
 
 ### 🖇️ String session ⚡
 
 [![Run on Repl.it](https://repl.it/badge/github/REVILMULTISPAMBOT/REVILBOT)](https://replit.com/@revilmultispam/REVIL-MULTISPAM-BOT)
 
-  - Click On Generate String
+  - Click On Generate String    
   - Then Click On Green Run Button.
   - Wait for a while then fill the details.
-  - String will be saved in your Saved Message.
+  - String will be saved in your Saved Messages.
 
 
 
